@@ -6,7 +6,7 @@ function App() {
 	console.log(process.env.REACT_APP_API_KEY);
 	return (
 		<div className='App'>
-			<h1>JJ world again</h1>
+			<h1>My  world again</h1>
 		</div>
 	);
 }
